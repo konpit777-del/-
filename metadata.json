@@ -1,0 +1,6 @@
+{
+  "name": "내 업무 플래너",
+  "description": "개인 업무를 등록하고 마감일과 우선순위, 완료 상태를 관리하는 간결하고 신뢰할 수 있는 한국어 업무용 플래너 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
